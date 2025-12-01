@@ -1,5 +1,5 @@
 # TeleMom_reproducibility
-This is a code replication of the conference paper TeleMoM: Consensus-Driven Telecom Intelligence via Mixture of Models(see the link for details). The authors have not released the official code, and I have only implemented a very basic version by calling various large language model APIs without fine-tuning any of the models.
+This is a code replication of the conference paper TeleMoM: Consensus-Driven Telecom Intelligence via Mixture of Models(see the link for detailshttps://arxiv.org/abs/2504.02712). The authors have not released the official code, and I have only implemented a very basic version by calling various large language model APIs without fine-tuning any of the models.
 
 The code still has many issues, such as saving results to JSON files, encapsulating functions for reuse, and enabling parallel batch processing.
 
